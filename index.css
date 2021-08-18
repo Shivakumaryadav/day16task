@@ -1,0 +1,326 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    
+}
+.parent{
+
+    margin-block: 1%;
+    border-style: solid;
+    margin-left: 1%;
+    margin-right: 1%;
+    margin-bottom: 1%;
+ 
+ 
+}
+.First-half{
+    /* text-align: center; */
+    width: 50%;
+    display:inline-block;
+   
+}
+.vertical{
+    /* position: absolute; */
+   
+   display:inline-block;
+   /* content:""; */
+    position: absolute;
+    /* z-index: -1; */
+    /* top: 0;
+    bottom: 0; */
+    height: 125%;
+    left: 50%;
+    border-left: 2px dashed #444; 
+}
+
+.Second-half{
+    display:inline-block;
+    width: 50%;
+   position: absolute;
+   left: 50%;
+  
+}
+/* .Second-half{
+    width: 50%;
+    display:inline-block;
+    position: absolute;
+    left: 50%;
+    display:inline-block;
+} */
+.obesity{
+    color:#1cc5dc;
+    padding: 2%;
+    font-family: 'Roboto', sans-serif;
+    font-stretch: expanded;;
+    font-size: 3rem;
+    widows: 10px;;
+   
+    
+}
+.infographic{
+    color: #fea82f;
+    position: relative;
+    left: 0.1px;
+    font-family: 'Roboto', sans-serif;
+    font-stretch: expanded;;
+    font-size: 3rem;
+    widows: 10px;;
+    
+}
+.lorem{
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-stretch: expanded;;
+    font-size: 1rem;
+    widows: 10px;;
+    color: #687980;
+    margin-top: 2%;
+} 
+.firstblock{
+    text-align: center;
+    
+}
+.banner{
+    text-align: center;
+    background-color: #1cc5dc;
+    font-size: 20px; 
+            padding: 10px; 
+            border: 1px solid lightgray; 
+            margin: 20px;
+            margin-bottom: 1%;
+            color: white;
+}
+.Second-block{
+    /* display: inline-block; */
+    padding: 4%;
+    color:#14274e;
+   
+}
+.img{
+   
+    float: left;
+    position: absolute;
+    left: 25%; 
+    top: 29%;
+    height: 150px;
+    width: 70px;
+    
+}
+.imgnear{
+    display: inline-block;
+    color: #1cc5dc;
+    position: absolute;
+    left:3%;
+    top: 34%;
+    /* float: left; */
+}
+.banner-2{
+    text-align: center;
+    background-color: #1cc5dc;
+    font-size: 20px; 
+            padding: 10px; 
+            border: 1px solid lightgray; 
+         margin-top: 8%;
+            margin-bottom: 1%;
+            color: white;
+}
+.images-fries{
+    display: inline-block;
+    margin-top: 6%;
+    margin-left: 2%;
+
+
+}
+.images-donat{
+    display: inline-block;
+    position: relative;
+    bottom:  100%;
+    
+   
+}
+.images-glass{
+    padding-top: 100px;
+    padding-left: 10px;
+    display: inline-block;
+    position: relative;
+    top: 100%;
+    left: 04%;
+}
+.banner-3{
+    text-align: center;
+    background-color: #1cc5dc;
+    font-size: 20px; 
+            padding: 10px; 
+            border: 2px solid lightgray; 
+         margin-top: 8%;
+            margin-bottom: 1%;
+            color: white;
+    margin-top:03%;
+}
+.text{
+    display: inline-block;
+    color: #02475e;
+    position: relative;
+    left:3%;
+    top: 34%;
+    font-size: 20px;
+}
+.five{
+    color: #fea82f;
+    font-size: 65px;
+    position: relative;
+    top: 05%;
+    padding-left: 15%;
+    margin-top:02%;
+
+}
+.SUFFER{
+    padding-left: 15%;
+}
+.Obesity{
+    padding-left: 43%;
+}
+.imagesofstack{
+    display: inline;
+    position: relative;
+    left: 10%;
+}
+.Adult{
+    display: inline-block;
+ padding-left: 27%;
+ color: #02475e;
+
+}
+.yello{
+    color: #fea82f;
+}
+.person{
+    display: inline-block;
+    position: absolute;
+    left: 23%;
+  
+    float: left;
+    
+}
+.i{
+    display: iinline-block;
+    position: absolute;
+    left:  05%;
+    padding-left: 57%;
+}
+.per{
+    font-size:3em;
+}
+.healthy{
+ 
+    font-size:1em;
+    padding-left:3%;
+    color: #02475e;
+
+}
+.whole{
+    display: inline-block;
+    font-size:1em;
+    font: weight 1px;
+    padding-left:3%;
+    padding-top: 3%;
+    color: #1cc5dc;
+}
+.hun{
+    color: #fea82f;
+    font-size : 65px;
+    display: inline-block;
+    padding-left:2%
+    
+}
+
+.breadimg{
+    display: inline-block;
+    position: absolute;
+    top:09%;
+    padding-left: 3%;;
+}
+.vegimg{
+    display: inline-block;
+    position: absolute;
+    top:15%;
+   
+
+}
+
+
+.fish{
+    display: inline-block;
+    position: absolute;
+    top:23%;
+
+}
+.milk{
+
+    display: inline-block;
+    position: absolute;
+    top:32%;
+
+
+}
+.banner4{
+    margin-top:40%
+}
+
+.banner-4{
+
+    /* text-align: center;
+    background-color: #1cc5dc;
+    font-size: 20px; 
+            padding: 10px; 
+            border: 1px solid lightgray; 
+         margin-top: 19%;
+            margin-bottom: 1%;
+            color: white; */
+            text-align: center;
+            background-color: #1cc5dc;
+            font-size: 20px; 
+                    padding: 10px; 
+                    border: 1px solid lightgray; 
+                    margin-top: 19%;
+                    margin-bottom: 1%;
+                    color: white;
+}
+
+.diabtimg{
+    display: inline-block;
+    padding-left:3%;
+    padding-top: 2%;;
+
+}
+
+
+
+
+.diabt{
+    padding-top:3%;
+    display: inline-block;
+    position: absolute;
+    left:30%
+ 
+
+}
+.all{
+    padding-top:7%;
+    display: inline-block;
+    position: absolute;
+    left:30%
+
+}
+.lo{
+    color: #1cc5dc;
+   
+
+}
+.ditext{
+    color: #fea82f;
+}
+.diabt{
+    color: #02475e;
+
+}
